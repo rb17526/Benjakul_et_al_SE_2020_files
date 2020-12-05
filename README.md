@@ -7,5 +7,7 @@ https://doi.org/10.5194/se-2020-99
 
 We used TOUGHREACT, a numerical simulation program developed by the Lawrence Berkeley National Laboratory (LBNL) which is available at: https://tough.lbl.gov/licensing-download/toughreact-licensing-download/ to numerically model the convection of seawater in a single fault within carbonate-hosted system. The parameters used in the numerical models are given in the paper.
 
-Please contact me via the following e-mail addresses in case you have any question:
+The output files from TOUGHREACT are visualized using trexplot, a python script developed under Hamish Robertson’s initiative which can be found at: https://github.com/hammytheham/trexplot (last access: 5 December 2020).
+
+Please contact me via the following e-mail addresses in case you have any questions:
 rb17526@bristol.ac.uk or rbenjaku@gmail.com

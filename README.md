@@ -1,5 +1,5 @@
 # Benjakul_et_al_SE_2020_files
-<h1><b>Input Files for Reactive Transport Models in Benjakul et al. (2020)</b></h1>
+<h2>Input Files for Reactive Transport Models in Benjakul et al. (2020)</h1>
 
 This repository includes the input files of the numerical models in the paper entitled "<b><i>Understanding controls on hydrothermal dolomitisation: insights from 3D Reactive Transport Modelling of geothermal convection</i></b>".
 

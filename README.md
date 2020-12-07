@@ -10,3 +10,5 @@ The output files from TOUGHREACT are visualized using <b>trexplot</b>, a python 
 
 Please contact me via the following e-mail addresses in case you have any questions:
 rb17526@bristol.ac.uk or rbenjaku@gmail.com
+
+[![DOI](https://zenodo.org/badge/318801734.svg)](https://zenodo.org/badge/latestdoi/318801734)

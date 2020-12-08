@@ -6,8 +6,8 @@ https://doi.org/10.5194/se-2020-99
 
 We used <b>TOUGHREACT</b>, a numerical simulation program developed by the Lawrence Berkeley National Laboratory (LBNL) which is available at: https://tough.lbl.gov/licensing-download/toughreact-licensing-download/ to numerically model the convection of seawater in a single fault within carbonate-hosted system. The parameters used in the numerical models are given in the paper.
 
-|Simulation |	Folder |	Model description	&nbsp; &nbsp;| Figure |	Flow dataA |	Flow vectorB |	MineralC |	AqconcD |	SIE |
-|---------|--------|--------------------|:--------:|-------------|---------------|-----------|----------|-----|
+|Simulation |	Folder |  	Model description	  | Figure |	Flow dataA |	Flow vectorB |	MineralC |	AqconcD |	SIE |
+|---------|--------|--------------------------|:--------:|-------------|---------------|-----------|----------|-----|
 | 1 |	2D_Fault_perpendicular |	Fault-perpendicular 2D model |	2 |	Benjakuletal2020_M1_flow |	Benjakuletal2020_M1_vector |	Benjakuletal2020_M1_mineral	| Benjakuletal2020_M1_aqconc |	Benjakuletal2020_M1_SI |
 |2|	2D_Fault_parallel|	Fault-parallel 2D model	|2|	Benjakuletal2020_M2_flow	|Benjakuletal2020_M2_vector	|Benjakuletal2020_M2_mineral|	Benjakuletal2020_M2_aqconc	|Benjakuletal2020_M2_SI|
 |3|	3D_Baseline|	3D baseline model|	3	|Benjakuletal2020_M3_flow	|Benjakuletal2020_M3_vector|	Benjakuletal2020_M3_mineral|	Benjakuletal2020_M3_aqconc	|Benjakuletal2020_M3_SI|

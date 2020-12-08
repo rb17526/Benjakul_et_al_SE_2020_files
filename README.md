@@ -1,9 +1,8 @@
 <h1>Output Files from Reactive Transport Models in Benjakul et al. (2020)</h2>
 
 This repository includes the output files (in Tecplot format) of the numerical models in the paper entitled "<b><i>Understanding controls on hydrothermal dolomitisation: insights from 3D Reactive Transport Modelling of geothermal convection</i></b>".
-<font size="10">
-<table width="100%">
-|Simulation |	Folder |   Model description	 | Figure |	Flow data<sup>A</sup> |	Flow vector<sup>B</sup> |	Mineral<sup>C</sup> |	Aqconc<sup>D</sup> |	SI<sup>E</sup> |
+
+|Simulation |	Folder | Model description | Figure |	Flow data<sup>A</sup> |	Flow vector<sup>B</sup> |	Mineral<sup>C</sup> |	Aqconc<sup>D</sup> |	SI<sup>E</sup> |
 |:---------:|--------|----------------------|:------:|------------------------|-------------------------|---------------------|----------|-----|
 | 1 |	2D_Fault_perpendicular |	Fault-perpendicular 2D model |	2 |	Benjakuletal2020_M1_flow |	Benjakuletal2020_M1_vector |	Benjakuletal2020_M1_mineral	| Benjakuletal2020_M1_aqconc |	Benjakuletal2020_M1_SI |
 |2|	2D_Fault_parallel|	Fault-parallel 2D model	|2|	Benjakuletal2020_M2_flow	|Benjakuletal2020_M2_vector	|Benjakuletal2020_M2_mineral|	Benjakuletal2020_M2_aqconc	|Benjakuletal2020_M2_SI|
@@ -14,7 +13,7 @@ This repository includes the output files (in Tecplot format) of the numerical m
 |7|	3D_200C_base	|lower basement temperature	|8d|	Benjakuletal2020_M7_flow	|Benjakuletal2020_M7_vector	|Benjakuletal2020_M7_mineral	|Benjakuletal2020_M7_aqconc	|Benjakuletal2020_M7_SI|
 |8|	3D_50%k_cap	|50% lower-permeability caprock	|10b	|Benjakuletal2020_M8_flow|	Benjakuletal2020_M8_vector|	Benjakuletal2020_M8_mineral	|Benjakuletal2020_M8_aqconc	|Benjakuletal2020_M8_SI|
 |9|	3D-10%k_cap	|90% lower-permeability caprock|	10c|	Benjakuletal2020_M9_flow	|Benjakuletal2020_M9_vector	|Benjakuletal2020_M9_mineral	|Benjakuletal2020_M9_aqconc	|Benjakuletal2020_M9_SI|
- </table></font>
+
 We used <b>TOUGHREACT</b>, a numerical simulation program developed by the Lawrence Berkeley National Laboratory (LBNL) which is available at: https://tough.lbl.gov/licensing-download/toughreact-licensing-download/ to numerically model the convection of seawater in a single fault within carbonate-hosted system. The parameters used in the numerical models are given in the paper.
 
 https://doi.org/10.5194/se-2020-99
